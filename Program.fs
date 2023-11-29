@@ -27,3 +27,6 @@ let Dune = { Name = "Dune"; RunLength = 155; Genre = Sport; Director = denisVill
 let KingRichard = { Name = "King Richard"; RunLength = 144; Genre = Comedy; Director = reinaldoMarcusGreen; IMDBRating = 7.5 }
 let LicoricePizza = { Name = "Licorice Pizza"; RunLength = 133; Genre = Thriller; Director = paulThomasAnderson; IMDBRating = 7.4 }
 let NightmareAlley = { Name = "Nightmare Alley"; RunLength = 150; Genre = Drama; Director = guillermoDelToro; IMDBRating = 7.1 }
+
+// List of movies
+let movies = [CODA; Belfast; DontLookUp; DriveMyCar; Dune; KingRichard; LicoricePizza; NightmareAlley]
