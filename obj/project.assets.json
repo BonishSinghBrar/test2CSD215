@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyfSharpApp\\MyFSharpApp.fsproj",
+      "projectUniqueName": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\MyFSharpApp.fsproj",
       "projectName": "MyFSharpApp",
-      "projectPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyfSharpApp\\MyFSharpApp.fsproj",
+      "projectPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\MyFSharpApp.fsproj",
       "packagesPath": "C:\\Users\\Bonish Singh BRAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyfSharpApp\\obj\\",
+      "outputPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bonish Singh BRAR\\AppData\\Roaming\\NuGet\\NuGet.Config"

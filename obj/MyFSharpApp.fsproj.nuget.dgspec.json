@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyFsharpApp\\MyFSharpApp.fsproj": {}
+    "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\MyFSharpApp.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyFsharpApp\\MyFSharpApp.fsproj": {
+    "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\MyFSharpApp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyFsharpApp\\MyFSharpApp.fsproj",
+        "projectUniqueName": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\MyFSharpApp.fsproj",
         "projectName": "MyFSharpApp",
-        "projectPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyFsharpApp\\MyFSharpApp.fsproj",
+        "projectPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\MyFSharpApp.fsproj",
         "packagesPath": "C:\\Users\\Bonish Singh BRAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\MyFsharpApp\\obj\\",
+        "outputPath": "C:\\Users\\Bonish Singh BRAR\\.dotnet\\CSD215test2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bonish Singh BRAR\\AppData\\Roaming\\NuGet\\NuGet.Config"
